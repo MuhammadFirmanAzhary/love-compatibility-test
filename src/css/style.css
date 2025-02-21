@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, #ff758c, #ff7eb3);
+    color: white;
+}
+.container {
+    margin: 50px auto;
+    padding: 20px;
+    width: 350px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+input {
+    padding: 10px;
+    width: 80%;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0;
+    font-size: 16px;
+    text-align: center;
+}
+button {
+    background: pink;
+    color: black;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.result {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 15px;
+}
